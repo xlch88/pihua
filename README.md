@@ -6,10 +6,13 @@
 
 # 关于我
 
-| 个人网站 | [Dark495.me](https://dark495.me/) |
+***聪明的，你告诉我，我们的日子为什么一去不复返呢？***
+
+| 个人网站 | [https://dark495.me](https://dark495.me/) |
 | --- | --- |
 | GitHub | [xlch88](https://github.com/xlch88) |
-| Telegram | [dark4955](https://t.me/dark4955) |
+| Telegram | [@dark4955](https://t.me/dark4955) |
+| Telegram频道 | [@dark495_insane](https://t.me/dark495_insane) |
 | Twitter | [@DarkEye495](https://twitter.com/DarkEye495) |
 | Mail | [i@dark495.me](mailto:i@dark495.me) / [flandrestudio.cn@gmail.com](mailto:flandrestudio.cn@gmail.com)
 
