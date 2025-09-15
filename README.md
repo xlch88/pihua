@@ -14,7 +14,7 @@
 | Telegram | [@dark4955](https://t.me/dark4955) |
 | Telegram频道 | [@dark495_insane](https://t.me/dark495_insane) |
 | Twitter | [@DarkEye495](https://twitter.com/DarkEye495) |
-| Mail | [i@dark495.me](mailto:i@dark495.me) / [flandrestudio.cn@gmail.com](mailto:flandrestudio.cn@gmail.com)
+| Mail | [i@dark495.me](mailto:i@dark495.me) / [flandrestudio.cn@gmail.com](mailto:flandrestudio.cn@gmail.com) |
 
 # 2025
 
