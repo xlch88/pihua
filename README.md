@@ -4,6 +4,15 @@
 
 以及各种犯病写下来的胡言乱语等等。
 
+# 关于我
+
+| 个人网站 | [Dark495.me](https://dark495.me/) |
+| --- | --- |
+| GitHub | [xlch88](https://github.com/xlch88) |
+| Telegram | [dark4955](https://t.me/dark4955) |
+| Twitter | [@DarkEye495](https://twitter.com/DarkEye495) |
+| Mail | [i@dark495.me](mailto:i@dark495.me) / [flandrestudio.cn@gmail.com](mailto:flandrestudio.cn@gmail.com)
+
 # 2025
 
 ## 2025-07
@@ -12,4 +21,4 @@
 
 ## 2025-09
 
-- [起诉实录：消费4万的美团黑钻会员，被算法与客服逼到法院，现已立案](./2025-09-16_FuckMeituan.MD)
+- [起诉实录：消费4万的美团黑钻会员，被算法与客服逼到法院，现已立案](./2025-09/2025-09-16_FuckMeituan.MD)
