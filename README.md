@@ -6,22 +6,30 @@
 
 # 关于我
 
-***聪明的，你告诉我，我们的日子为什么一去不复返呢？***
+**_聪明的，你告诉我，我们的日子为什么一去不复返呢？_**
 
-| 个人网站 | [https://dark495.me](https://dark495.me/) |
-| --- | --- |
-| GitHub | [xlch88](https://github.com/xlch88) |
-| Telegram | [@dark4955](https://t.me/dark4955) |
-| Telegram频道 | [@dark495_insane](https://t.me/dark495_insane) |
-| Twitter | [@DarkEye495](https://twitter.com/DarkEye495) |
-| Mail | [i@dark495.me](mailto:i@dark495.me) / [flandrestudio.cn@gmail.com](mailto:flandrestudio.cn@gmail.com) |
-
-# 2025
-
-## 2025-07
-
-- [我真的好累，好焦虑，好伤心，好难受，好想哭。](./2025-07/2025-07-11_07-23-19.md)
+| 个人网站     | [https://dark495.me](https://dark495.me/)                                                             |
+| ------------ | ----------------------------------------------------------------------------------------------------- |
+| GitHub       | [xlch88](https://github.com/xlch88)                                                                   |
+| Telegram     | [@dark4955](https://t.me/dark4955)                                                                    |
+| Telegram频道 | [@dark495_insane](https://t.me/dark495_insane)                                                        |
+| Twitter      | [@DarkEye495](https://twitter.com/DarkEye495)                                                         |
+| Mail         | [i@dark495.me](mailto:i@dark495.me) / [flandrestudio.cn@gmail.com](mailto:flandrestudio.cn@gmail.com) |
 
 ## 2025-09
 
-- [起诉实录：消费4万的美团黑钻会员，被算法与客服逼到法院，现已立案](./2025-09/2025-09-16_FuckMeituan.MD)
+- 2025-09-04 [跨运营商限速到底是什么时候开始的？是我孤陋寡闻了吗？](./2025-09/2025-09-04_isp-qos.md)
+- 2025-09-09 [自上次给某 PT 站白干苦力以后，账号被删。](./2025-09/2025-09-09_pt.md)
+- 2025-09-16 [起诉实录：消费4万的美团黑钻会员，被算法与客服逼到法院，现已立案](./2025-09/2025-09-16_FuckMeituan.MD)
+
+## 2025-07
+
+- 2025-07-08 [大概是第 N 个重复的轮子：一个在线查 whois 的网站，可托管 CF Worker](./2025-07/2025-07-08_whois.md)
+- 2025-07-10 [制作了一个永远不会升级的 JetBrains Monokai Pro Theme](./2025-07/2025-07-10_jb-monokai.md)
+- 2025-07-11 [我真的好累，好焦虑，好伤心，好难受，好想哭。](./2025-07/2025-07-11_07-23-19.md)
+- 2025-07-14 [真的能笑死人。关于宽带被限速 信访以后泉州联通的答复](./2025-07/2025-07-14_qzunicom_xf.md)
+- 2025-07-19 [【后续】 在泉州联通回复信访以后，我起诉了。目前已经立案。](./2025-07/2025-07-19_qzunicom_qs.md)
+
+## 2025-06
+
+- 2025-06-27 [买了个小佩猫砂盆，没想到是“锁区设备”——国产硬件厂商又在重演老路？](./2025-06/2025-06-27_xp.md)
