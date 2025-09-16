@@ -169,7 +169,7 @@
 
 # 关于转载
 
-此文原始发布于Github：[https://github.com/xlch88/fuck](https://github.com/xlch88/fuck)
+此文原始发布于Github：[https://github.com/xlch88/pihua/blob/master/2025-09/2025-09-16_FuckMeituan.MD](https://github.com/xlch88/pihua/blob/master/2025-09/2025-09-16_FuckMeituan.MD)
 
 允许任何、任意形式的转载（包括但不限于个人、媒体、机构转载），但请尽可能地保留原始链接和作者信息。
 
