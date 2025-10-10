@@ -16,6 +16,10 @@
 | Twitter      | [@DarkEye495](https://twitter.com/DarkEye495)                                                         |
 | Mail         | [i@dark495.me](mailto:i@dark495.me) / [flandrestudio.cn@gmail.com](mailto:flandrestudio.cn@gmail.com) |
 
+## 2025-10
+
+- 2025-10-10 [【后续 2】 泉州联通案件的近期情况，以及 10月13日（15:00）开庭｜地点：泉州鲤城法院](./2025-10/2025-10-10_QuanzhouUnicom.md)
+
 ## 2025-09
 
 - 2025-09-30 [真的能被阿里系的PC端Web风控气死](./2025-09/2025-09-30_Fuck1688.md)
