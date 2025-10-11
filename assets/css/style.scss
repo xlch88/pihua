@@ -18,9 +18,17 @@ header {
 	}
 }
 
+.inner {
+	display: flex;
+}
+
 #main-content {
 	float: left;
 	width: 980px;
+
+	> h1:first-child {
+		padding: 0px 10px;
+	}
 
 	h1,
 	h2,
@@ -44,4 +52,8 @@ header {
 	h4 {
 		font-size: 18px;
 	}
+}
+
+aside#sidebar {
+	border-left: 1px solid #0000000d;
 }
