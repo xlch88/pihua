@@ -1,0 +1,44 @@
+@import "{{ site.theme }}";
+
+body {
+	font-family: "Courier New", Courier, sans-serif;
+}
+
+header {
+	font-family: "Microsoft JHengHei", system-ui, sans-serif;
+
+	h1 {
+		font-size: 38px;
+	}
+	h2 {
+		font-size: 15px;
+	}
+}
+
+#main-content {
+	float: left;
+	width: 980px;
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		font-family: "Courier New", Courier, sans-serif;
+	}
+
+	h1,
+	h2 {
+		border-bottom: 1px solid #d6d6d6;
+		margin-bottom: 10px;
+	}
+
+	h1 {
+		font-size: 26px;
+	}
+
+	h4 {
+		font-size: 18px;
+	}
+}
