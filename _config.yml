@@ -1,6 +1,6 @@
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
+    - jekyll-remote-theme
 title: Dark495的长文批话和黑历史
 description: 这里存储了Dark495的长文批话和黑历史，包括但不限于对某些事件的深度分析、对某些现象的独特见解、以及对某些问题的尖锐批评。以及各种犯病写下来的胡言乱语等等。
 show_downloads: false
