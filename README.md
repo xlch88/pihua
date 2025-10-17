@@ -15,10 +15,15 @@
 | Telegram频道 | [@dark495_insane](https://t.me/dark495_insane)                                                        |
 | Twitter      | [@DarkEye495](https://twitter.com/DarkEye495)                                                         |
 | Mail         | [i@dark495.me](mailto:i@dark495.me) / [flandrestudio.cn@gmail.com](mailto:flandrestudio.cn@gmail.com) |
+| Wechat       | BPM8964                                                                                               |
+| QQ           | 787700998                                                                                             |
+
+# 目录
 
 ## 2025-10
 
-- 2025-10-10 [【后续 2】 泉州联通案件的近期情况，以及 10月13日（15:00）开庭｜地点：泉州鲤城法院](./2025-10/2025-10-10_QuanzhouUnicom.md)
+- 2025-10-17 [【后续 3】诉泉州联通案一审取得阶段性胜利，但仍需二审](./2025-10/2025-10-17_QuanzhouUnicom-FirstJudgment.md)
+- 2025-10-10 [【后续 2】泉州联通案件的近期情况，以及 10月13日（15:00）开庭｜地点：泉州鲤城法院](./2025-10/2025-10-10_QuanzhouUnicom.md)
 
 ## 2025-09
 
