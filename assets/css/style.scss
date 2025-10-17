@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 body {
-	font-family: "Courier New", Courier, sans-serif;
+	font-family: system-ui, sans-serif;
 }
 
 * {
@@ -47,7 +47,7 @@ header {
 	h4,
 	h5,
 	h6 {
-		font-family: "Courier New", Courier, sans-serif;
+		font-family: system-ui, sans-serif;
 	}
 
 	h1,
