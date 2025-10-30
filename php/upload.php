@@ -34,7 +34,7 @@ for ($i = 0; $i < $zip->numFiles; $i++) {
 	}
 }
 
-$base = dirname(__DIR__);
+$base = dirname(dirname(__DIR__));
 $public = $base . DIRECTORY_SEPARATOR . 'public';
 $public_tmp = $base . DIRECTORY_SEPARATOR . 'public_tmp';
 $public_old = $base . DIRECTORY_SEPARATOR . 'public_old';
