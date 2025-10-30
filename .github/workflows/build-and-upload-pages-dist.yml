@@ -15,9 +15,15 @@ jobs:
             - uses: actions/checkout@v4
 
             - run: |
+                  env
+                  pwd
+
                   echo -e "dark495.cn" > CNAME
                   echo "url: \"https://dark495.cn\"" >> _config.yml
                   echo "baseurl: \"/\"" >> _config.yml
+                  cat ./CNAME
+                  cat ./_config.yml
+                  ls -la
 
             - uses: actions/jekyll-build-pages@v1
               with:
