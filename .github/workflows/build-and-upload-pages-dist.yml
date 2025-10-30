@@ -10,6 +10,7 @@ permissions:
 jobs:
     build-upload:
         runs-on: ubuntu-latest
+        environment: build-upload
         steps:
             - uses: actions/checkout@v4
 
