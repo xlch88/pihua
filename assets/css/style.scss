@@ -63,12 +63,14 @@ header {
 	}
 }
 
-aside#sidebar {
+footer {
 	background: none;
 	border-left: none !important;
 	border-top: 1px dashed #b2b2b2;
 	width: 100%;
-	padding-top: 20px;
+	min-height: unset;
+	padding: 20px 0;
+	margin-top: 0;
 }
 a.button {
 	width: 202px;
