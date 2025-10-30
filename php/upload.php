@@ -1,5 +1,5 @@
 <?php
-$pwd = include('upload_pwd.php');
+$pwd = include('../../upload_pwd.php');
 
 if($_SERVER['REQUEST_METHOD'] !== 'POST'){
 	die('Method Not Allowed');
