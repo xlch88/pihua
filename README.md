@@ -4,6 +4,14 @@
 
 以及各种犯病写下来的胡言乱语等等。
 
+> 本站访问途径
+>
+> 国内镜像站：[dark495.cn](https://dark495.cn)  
+> 国外Github Pages：[fuckgod.me](https://fuckgod.me)  
+> Github项目地址：[https://github.com/xlch88/pihua](https://github.com/xlch88/pihua)
+>
+> 请您牢记Github项目 `xlch88/pihua` 以及域名 `fuckgod.me`，国内镜像站随时可能被和谐掉。
+
 # 关于我
 
 **_聪明的，你告诉我，我们的日子为什么一去不复返呢？_**
