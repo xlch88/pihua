@@ -71,6 +71,13 @@ footer {
 	min-height: unset;
 	padding: 20px 0;
 	margin-top: 0;
+	color: #666;
+	a {
+		color: #2879d0;
+		&:hover {
+			color: #2268b2;
+		}
+	}
 }
 a.button {
 	width: 202px;
