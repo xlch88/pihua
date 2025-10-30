@@ -37,3 +37,5 @@ pnpm-debug.log*
 *.sln
 *.sw?
 version_commit.ts
+
+/php/upload_pwd.php

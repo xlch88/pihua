@@ -1,0 +1,34 @@
+name: build-and-upload-pages-dist
+
+on:
+    push:
+        branches: [main]
+
+permissions:
+    contents: read
+
+jobs:
+    build-upload:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+
+            - uses: actions/jekyll-build-pages@v1
+              with:
+                  source: ./
+                  destination: ./_site
+
+            - name: Pack
+              run: |
+                  cd _site
+                  zip -r ../site.zip .
+
+            - name: Upload (POST multipart)
+              env:
+                  UPLOAD_URL: ${{ secrets.UPLOAD_URL }}
+                  UPLOAD_TOKEN: ${{ secrets.UPLOAD_TOKEN }}
+              run: |
+                  curl -sS -f -X POST "$UPLOAD_URL" \
+                    -H "Authorization: Bearer $UPLOAD_TOKEN" \
+                    -F "file=@site.zip" \
+                    -o /dev/stdout
