@@ -24,9 +24,7 @@ header {
 
 #content-wrapper .inner {
 	display: flex;
-	@media (max-width: 960px) {
-		flex-direction: column;
-	}
+	flex-direction: column;
 }
 
 #main-content {
@@ -66,17 +64,32 @@ header {
 }
 
 aside#sidebar {
-	border-left: 1px solid #0000000d;
-
-	@media (max-width: 960px) {
-		background: none;
-		border-left: none !important;
-		border-top: 1px dashed #b2b2b2;
-		width: 100%;
-		padding-top: 20px;
-	}
+	background: none;
+	border-left: none !important;
+	border-top: 1px dashed #b2b2b2;
+	width: 100%;
+	padding-top: 20px;
 }
 a.button {
 	width: 202px;
 	height: 80px;
+}
+
+@media (max-width: 960px) {
+	#main-content h1 {
+		text-indent: 0px;
+	}
+}
+
+code {
+	background: #ffdcdc;
+	font-family: sans-serif;
+	border: none;
+	border-radius: 5px;
+}
+
+blockquote {
+	margin: 0;
+	background: #ffffff;
+	border-left-color: #03a9f4;
 }
