@@ -14,6 +14,11 @@ jobs:
         steps:
             - uses: actions/checkout@v4
 
+            - run: |
+                  echo -e "dark495.cn" > CNAME
+                  echo "url: \"https://dark495.cn\"" >> _config.yml
+                  echo "baseurl: \"/\"" >> _config.yml
+
             - uses: actions/jekyll-build-pages@v1
               with:
                   source: ./
