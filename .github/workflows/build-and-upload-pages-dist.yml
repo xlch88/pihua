@@ -48,7 +48,7 @@ jobs:
                   UPLOAD_URL: ${{ secrets.UPLOAD_URL }}
                   UPLOAD_TOKEN: ${{ secrets.UPLOAD_TOKEN }}
               run: |
-                  curl -sS -f -X POST "$UPLOAD_URL" \
+                  curl -v -f -X POST "$UPLOAD_URL" \
                     -H "Authorization: Bearer $UPLOAD_TOKEN" \
                     -F "file=@site.zip" \
                     -o /dev/stdout
