@@ -39,3 +39,4 @@ pnpm-debug.log*
 version_commit.ts
 
 /php/upload_pwd.php
+/.tmp
