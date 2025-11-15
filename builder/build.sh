@@ -1,5 +1,7 @@
+set -eux
+
 REPO_ROOT="$(git rev-parse --show-toplevel)"
-cd "$REPO_ROOT/build"
+cd "$REPO_ROOT/builder"
 
 BUNDLE_GEMFILE=./Gemfile
 mkdir -p ../.tmp/
