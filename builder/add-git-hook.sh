@@ -4,5 +4,6 @@ set -e
 
 REPO_ROOT="$(git rev-parse --show-toplevel)"
 
-"$REPO_ROOT/builder/build.sh"
+bash "$REPO_ROOT/builder/build.sh"
 EOF
+chmod +x .git/hooks/post-merge
