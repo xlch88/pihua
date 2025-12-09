@@ -13,3 +13,6 @@ rm -rf /website/dark495.cn/public_old
 mv /website/dark495.cn/public /website/dark495.cn/public_old
 mv /website/dark495.cn/public_new /website/dark495.cn/public
 rm -rf ../.tmp/
+
+chmod +x build.sh
+chmod +x cron.sh
