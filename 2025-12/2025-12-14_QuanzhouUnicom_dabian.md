@@ -85,7 +85,7 @@
 2025年12月9日
 </div>
 
-<details>
+<details markdown="1">
 <summary>扫描件原件</summary>
 
 [PDF版本](./assets/2025-12-14_QuanzhouUnicom_dabian/pdf/泉州联通厚颜无耻的答辩状%20-%20沈世智（2025）闽0502民初6751号.pdf) <----
