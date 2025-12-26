@@ -19,7 +19,7 @@
 | 个人网站     | [https://dark495.me](https://dark495.me/)                                                             |
 | ------------ | ----------------------------------------------------------------------------------------------------- |
 | GitHub       | [xlch88](https://github.com/xlch88)                                                                   |
-| Telegram     | [@dark4955](https://t.me/dark4955)                                                                    |
+| Telegram     | [@dark495_me](https://t.me/dark495_me)                                                                |
 | Telegram频道 | [@dark495_insane](https://t.me/dark495_insane)                                                        |
 | Twitter      | [@DarkEye495](https://twitter.com/DarkEye495)                                                         |
 | Mail         | [i@dark495.me](mailto:i@dark495.me) / [flandrestudio.cn@gmail.com](mailto:flandrestudio.cn@gmail.com) |
@@ -39,6 +39,7 @@
 - 2025-11-15 [【后续 5】我申请福建通信管理局公开对泉州联通的责令整改内容，结果来了](./2025-11/2025-11-15_fjca_public.md)
 - 2025-12-09 [【后续 6】2025年12月9日与泉州联通侵权案开庭情况 - (2025)闽0502民初6751号](./2025-12/2025-12-09_QuanzhouUnicom_0502-6751-begin.md)
 - 2025-12-14 [【后续 7】看看泉州联通是多么的不要脸 - 厚颜无耻的答辩状](./2025-12/2025-12-14_QuanzhouUnicom_dabian.md)
+- 2025-12-26 [【后续 8】泉州联通限速案二审开庭 | 时间 2025-12-30 10:20](./2025-12/2025-12-26_QuanzhouUnicom_05-7389.md)
 
 ## 资料备份
 
@@ -48,6 +49,7 @@
 
 ## 2025-12
 
+- 2025-12-26 [【后续 8】泉州联通限速案二审开庭 | 时间 2025-12-30 10:20](./2025-12/2025-12-26_QuanzhouUnicom_05-7389.md)
 - 2025-12-14 [【后续 7】看看泉州联通是多么的不要脸 - 厚颜无耻的答辩状](./2025-12/2025-12-14_QuanzhouUnicom_dabian.md)
 - 2025-12-09 [【后续 6】2025年12月9日与泉州联通侵权案开庭情况 - (2025)闽0502民初6751号](./2025-12/2025-12-09_QuanzhouUnicom_0502-6751-begin.md)
 
