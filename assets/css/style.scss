@@ -104,12 +104,12 @@ code {
 blockquote {
 	margin: 0;
 	padding: 15px;
-	background: black;
+	background: white;
 	border-left-color: #03a9f4;
 	margin-bottom: 20px;
 	p:nth-last-child(1) {
-		margin-bottom: 30px;
-		font-weight: bold;
+		margin-bottom: 0;
+		// font-weight: bold;
 	}
 }
 
