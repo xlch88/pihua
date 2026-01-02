@@ -27,6 +27,9 @@ header {
 	flex-direction: column;
 	width: 1040px;
 }
+.inner {
+	width: 1040px;
+}
 
 #main-content {
 	width: 100%;
@@ -36,7 +39,12 @@ header {
 	border-radius: 20px;
 
 	@media (max-width: 960px) {
-		padding-right: 0;
+		padding: 0;
+		box-shadow: none;
+		background: transparent;
+		blockquote {
+			background: #fff;
+		}
 	}
 
 	> h1:first-child {
@@ -64,6 +72,16 @@ header {
 
 	h4 {
 		font-size: 18px;
+	}
+
+	img {
+		border: 1px solid rgba(0, 0, 0, 0.1);
+		border-radius: 10px;
+		max-width: 415px;
+
+		@media (max-width: 960px) {
+			max-width: 100%;
+		}
 	}
 }
 
