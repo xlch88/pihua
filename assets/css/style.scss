@@ -27,8 +27,8 @@ header {
 	flex-direction: column;
 }
 .inner {
-	width: 100%;
-	max-width: calc(100% - 30px);
+	width: calc(100% - 30px);
+	max-width: 1040px;
 }
 
 #main-content {
