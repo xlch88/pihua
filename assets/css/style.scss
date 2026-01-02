@@ -25,10 +25,10 @@ header {
 #content-wrapper .inner {
 	display: flex;
 	flex-direction: column;
-	width: 1040px;
 }
 .inner {
-	width: 1040px;
+	width: 100%;
+	max-width: calc(100% - 30px);
 }
 
 #main-content {
