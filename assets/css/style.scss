@@ -81,6 +81,7 @@ header {
 		border: 1px solid rgba(0, 0, 0, 0.1);
 		border-radius: 10px;
 		max-width: calc(50% - 4px);
+		cursor: zoom-in;
 
 		@media (max-width: 960px) {
 			max-width: 100%;
